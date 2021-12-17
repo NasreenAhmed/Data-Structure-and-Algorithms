@@ -3,10 +3,15 @@
 Sources : 
 1. Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser - Data Structures and Algorithms in Python (2013, Wiley) 
 2. Data Structures and Algorithms Using Python by Rance D. Necaise
+3. Alogithms Illuminated - Part1  : Tim Roughgarden
 
-| Algorithm            | Link   |
+| Data Structures          | Link   |
 | -------------------- |-------------|
-| Stacks, Queues and Deques |[Stacks_Queues_Deques](https://nbviewer.org/github/NasreenAhmed/Data-Structure-and-Algorithms/blob/main/Stacks%20%2CQueues%20and%20Deques.ipynb) | 
+| Stacks, Queues and Deques |[Stacks_Queues_Deques](https://nbviewer.org/github/NasreenAhmed/Data-Structure-and-Algorithms/blob/main/data_structures/Stacks_Queues_Deques.ipynb) | 
+
+| Algorithms         | Link   |
+| -------------------- |-------------|
+| Karatsuba Multiplication |[karatsuba_mul](https://nbviewer.org/github/NasreenAhmed/Data-Structure-and-Algorithms/blob/main/algorithms/karatsuba_multiplication.ipynb) | 
 
 
 
