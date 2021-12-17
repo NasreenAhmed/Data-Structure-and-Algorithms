@@ -7,7 +7,7 @@ Sources :
 
 | Data Structures          | Link   |
 | -------------------- |-------------|
-| Stacks, Queues and Deques |[Stacks_Queues_Deques](https://nbviewer.org/github/NasreenAhmed/Data-Structure-and-Algorithms/blob/main/data_structures/Stacks_Queues_Deques.ipynb" target="_blank" rel="noopener noreferrer) | 
+| Stacks, Queues and Deques |[Stacks_Queues_Deques](https://nbviewer.org/github/NasreenAhmed/Data-Structure-and-Algorithms/blob/main/data_structures/Stacks_Queues_Deques.ipynb) | 
 
 | Algorithms         | Link   |
 | -------------------- |-------------|
