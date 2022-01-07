@@ -13,7 +13,7 @@ Sources :
 | -------------------- |-------------|
 | Karatsuba Multiplication |[karatsuba_mul](https://nbviewer.org/github/NasreenAhmed/Data-Structure-and-Algorithms/blob/main/algorithms/karatsuba_multiplication.ipynb) | 
 | Merge Sort |[merge_sort](https://nbviewer.org/github/NasreenAhmed/Data-Structure-and-Algorithms/blob/main/algorithms/MergeSort.ipynb) |
-| Basic Searching & Sorting |[search_sort](https://nbviewer.org/github/NasreenAhmed/Data-Structure-and-Algorithms/blob/main/algorithms/searching_sorting.ipynb) | 
+| Basic Searching & Sorting |[searching & sorting](https://nbviewer.org/github/NasreenAhmed/Data-Structure-and-Algorithms/blob/main/algorithms/searching_sorting.ipynb) | 
 | Recursion Problems |[recursion](https://nbviewer.org/github/NasreenAhmed/Data-Structure-and-Algorithms/blob/main/algorithms/recursion_problems.ipynb) |
 
 
